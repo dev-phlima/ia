@@ -44,4 +44,4 @@ Este projeto utiliza aprendizado de máquina para prever o score de crédito de 
 
 ## Autor
 
-Desenvolvido por um programador com experiência em Python, análise de dados e desenvolvimento de sistemas.
+Pedro Henrique de Lima
